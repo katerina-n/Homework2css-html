@@ -1,0 +1,27 @@
+div{
+    background-color: gainsboro;
+}
+h1{
+    font-family: "Times New Roman";
+    color: black;
+    font-size: 250%;
+    text-decoration: underline;
+}
+h2{
+    font-family: "Times New Roman";
+    color: black;
+    font-size: 130%;
+    text-decoration: underline;
+}
+h3{
+    font-family: "Times New Roman";
+    color: black;
+    font-size: 130%;
+}
+h4{
+    font-family: "Times New Roman";
+    color: red;
+    font-size: 130%;
+    margin:0px;
+    padding: 2px;
+}
